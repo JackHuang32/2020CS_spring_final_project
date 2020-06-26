@@ -8,7 +8,7 @@
 #include <allegro5/allegro_ttf.h>
 
 #define GAME_TERMINATE -1
-
+//
 // ALLEGRO Variables
 ALLEGRO_DISPLAY* display = NULL;
 ALLEGRO_EVENT_QUEUE *event_queue = NULL;
